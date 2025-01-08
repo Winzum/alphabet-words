@@ -4,3 +4,5 @@ An alphabet word is described as a word containing at least 2 clusters of at lea
 An example in **Dutch**: 
 Spijkerstof (Denim) - 
 Sp-IJK-e-RST-of
+
+Wordlist used for Dutch: https://github.com/OpenTaal/opentaal-wordlist
